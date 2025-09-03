@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Jalan_Cafe_FastFood_12",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616093503397948, -6.907929170373003 ], [ 107.616118834293147, -6.907903839477808 ], [ 107.616118834293147, -6.90786162131915 ], [ 107.616072394318621, -6.907756075922507 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616072394318635, -6.907757131376473 ], [ 107.617042356513821, -6.90742888519291 ], [ 107.617840279712453, -6.907361336139058 ], [ 107.618777522834648, -6.907276899821743 ], [ 107.61924614439576, -6.907238903478951 ], [ 107.619486787900101, -6.907171354425099 ], [ 107.619841420432834, -6.907268456190011 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Lombok" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.619837198616963, -6.907264234374145 ], [ 107.620196052965554, -6.907108027187112 ] ] ] } }
+]
+}

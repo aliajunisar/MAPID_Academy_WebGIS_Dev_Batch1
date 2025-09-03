@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Jalan_Cafe_FastFood_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616103431261479, -6.907926663669852 ], [ 107.616119263070971, -6.907913998222254 ], [ 107.616128762156677, -6.907893944596891 ], [ 107.616116096709078, -6.907860170069963 ], [ 107.616078100366281, -6.907756735581247 ], [ 107.616078100366281, -6.907756735581247 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616079155820273, -6.907757791035215 ], [ 107.615850122309553, -6.907842227352535 ], [ 107.615850122309553, -6.907842227352535 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Halmahera" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.615851177763517, -6.907841171898569 ], [ 107.615416330729317, -6.90671711342425 ], [ 107.615331894412009, -6.906419475405698 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. L. L> RE. Martadinata" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.615331894412009, -6.906423697221563 ], [ 107.615675972405086, -6.906360369983574 ], [ 107.615675972405086, -6.906360369983574 ] ] ] } }
+]
+}

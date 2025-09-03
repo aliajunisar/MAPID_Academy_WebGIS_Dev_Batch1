@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Jalan_Cafe_FastFood_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616096702742709, -6.907924420830181 ], [ 107.616122033637893, -6.90790964447465 ], [ 107.616126255453764, -6.907871648131856 ], [ 107.616075593663368, -6.907755548195541 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616075593663368, -6.907757659103474 ], [ 107.616867184138243, -6.907481130164252 ], [ 107.617050833128417, -6.907428357465927 ], [ 107.617669329152776, -6.907369252043805 ], [ 107.618112619818689, -6.907333465557752 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Flores" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.618112619818689, -6.907333366608944 ], [ 107.618127396174216, -6.907576121021238 ] ] ] } }
+]
+}

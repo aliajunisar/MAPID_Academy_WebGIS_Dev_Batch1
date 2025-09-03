@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Jalan_Cafe_FastFood_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616104486715685, -6.907921386400022 ], [ 107.616125595795026, -6.907904499136558 ], [ 107.616123484887083, -6.907864391885831 ], [ 107.616074934004629, -6.907746181041583 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616077044912558, -6.907754624673315 ], [ 107.616885522650904, -6.907478095734093 ], [ 107.617043840745879, -6.907427433943701 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Banda" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.617043840745879, -6.907427433943701 ], [ 107.616739870003528, -6.906099672853848 ], [ 107.616621659159293, -6.905149764284002 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Bahureksa" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.61661954825135, -6.905156097007802 ], [ 107.615967277700065, -6.905166651547467 ], [ 107.614656403873667, -6.905280640575848 ], [ 107.613885922478133, -6.905348189629704 ] ] ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Jalan_Cafe_FastFood_16",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616112501569418, -6.907922837649197 ], [ 107.616127277924946, -6.907903839477802 ], [ 107.616129388832874, -6.907884841306406 ], [ 107.61608083795042, -6.907753965014567 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616082948858363, -6.907758186830433 ], [ 107.617045522875756, -6.907424663377038 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Banda" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.61704763378367, -6.907422552469106 ], [ 107.616756328488933, -6.906200336775969 ], [ 107.616688779435108, -6.9060546841286 ], [ 107.616623341289184, -6.905398191761475 ], [ 107.616587455854329, -6.905011895609758 ], [ 107.616589566762258, -6.90485991023859 ], [ 107.616598010394, -6.90467626124843 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Progo" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616598010394014, -6.90467626124843 ], [ 107.6187426928538, -6.904625071731056 ] ] ] } }
+]
+}

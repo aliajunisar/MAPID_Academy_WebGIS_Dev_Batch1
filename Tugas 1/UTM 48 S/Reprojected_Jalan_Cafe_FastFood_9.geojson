@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Reprojected_Jalan_Cafe_FastFood_9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789105.217384626390412, 9235635.427212966606021 ], [ 789107.674872766947374, 9235636.581696169450879 ], [ 789108.972887332318351, 9235639.144137566909194 ], [ 789102.98765298188664, 9235654.477678755298257 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789103.104370618471876, 9235654.477037347853184 ], [ 789178.879299520165659, 9235679.873130280524492 ], [ 789209.981442046584561, 9235689.746872624382377 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789209.981442045187578, 9235689.746872624382377 ], [ 789319.520589921390638, 9235699.656517984345555 ] ] ] } }
+]
+}

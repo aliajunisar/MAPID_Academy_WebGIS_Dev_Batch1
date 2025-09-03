@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Reprojected_Jalan_Cafe_FastFood_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789106.679884777520783, 9235636.061569379642606 ], [ 789108.556352428393438, 9235637.686441011726856 ], [ 789108.110021474771202, 9235641.426457151770592 ], [ 789103.514486907282844, 9235654.766780722886324 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789103.746638512704521, 9235654.531907264143229 ], [ 789078.249569658422843, 9235645.094513604417443 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Halmahera" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789077.088811552617699, 9235646.268880186602473 ], [ 789035.325399834429845, 9235756.639608148485422 ], [ 789030.261673419969156, 9235769.748888149857521 ], [ 789020.870442706160247, 9235802.504130851477385 ], [ 789020.870442706160247, 9235802.504130851477385 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. L. L. RE. Martadinata" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789020.637006911914796, 9235802.505413053557277 ], [ 788868.390785960713401, 9235794.931939018890262 ], [ 788852.499220029916614, 9235791.74881817959249 ], [ 788829.099257512250915, 9235781.598992392420769 ], [ 788791.631649530143477, 9235760.31370990164578 ], [ 788791.631649530143477, 9235760.31370990164578 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Saparua" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789061.992740759858862, 9235554.197564702481031 ], [ 789030.855105136521161, 9235622.812757613137364 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789031.08854014868848, 9235622.81147506646812 ], [ 788950.521319974446669, 9235574.899398479610682 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ternate" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 788950.990755558828823, 9235575.364014729857445 ], [ 788840.097007567994297, 9235786.327365152537823 ], [ 788840.097007567994297, 9235786.327365152537823 ] ] ] } }
+]
+}

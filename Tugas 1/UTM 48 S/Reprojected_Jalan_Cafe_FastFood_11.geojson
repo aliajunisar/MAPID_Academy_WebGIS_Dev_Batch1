@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Reprojected_Jalan_Cafe_FastFood_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Saparua" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789061.772574916249141, 9235554.622170304879546 ], [ 789107.666299268836156, 9235452.52134476415813 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Aceh" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789107.66758330015, 9235452.754935428500175 ], [ 789250.556843450758606, 9235499.38967558182776 ], [ 789331.013923422549851, 9235527.212525710463524 ], [ 789349.255270824069157, 9235533.185734916478395 ], [ 789361.408034149091691, 9235535.688461592420936 ], [ 789369.349970607319847, 9235536.579163890331984 ] ] ] } }
+]
+}

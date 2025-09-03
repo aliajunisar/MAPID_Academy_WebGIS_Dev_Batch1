@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Reprojected_Masjid_Musholla_Intersect",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "id_2": 1, "nama": "Taman Saparua", "ringId": 2, "distance": 100.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 789079.510464258957654, 9235407.285159222781658 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "id_2": 1, "nama": "Taman Saparua", "ringId": 7, "distance": 350.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 789309.032753259176388, 9235188.531957402825356 ] ] } },
+{ "type": "Feature", "properties": { "id": null, "id_2": 1, "nama": "Taman Saparua", "ringId": 6, "distance": 300.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 788759.134090570150875, 9235578.405287992209196 ] ] } }
+]
+}

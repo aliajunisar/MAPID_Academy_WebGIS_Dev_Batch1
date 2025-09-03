@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Jalan_Cafe_FastFood_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616111347166239, -6.907919275492088 ], [ 107.616128234429695, -6.907904499136558 ], [ 107.616124012613838, -6.90787072460963 ], [ 107.61608179445517, -6.907750402857449 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616083905363112, -6.907752513765383 ], [ 107.615853816398413, -6.907839060990635 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Halmahera" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.615843261858743, -6.90782850645097 ], [ 107.615460132068904, -6.906833213360564 ], [ 107.615413692094378, -6.906715002516315 ], [ 107.615327144869127, -6.906419475405697 ], [ 107.615327144869127, -6.906419475405697 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. L. L. RE. Martadinata" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.615325033961184, -6.906419475405698 ], [ 107.613948721988876, -6.906495468091285 ], [ 107.613805180249429, -6.906525020802347 ], [ 107.613594089456129, -6.906617900751399 ], [ 107.613256344186851, -6.906812104281234 ], [ 107.613256344186851, -6.906812104281234 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Saparua" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.615711330112944, -6.908661259630534 ], [ 107.615426357541992, -6.908042763606168 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.61542846844992, -6.908042763606167 ], [ 107.614702316120983, -6.908479721548296 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ternate" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.61470653793684, -6.908475499732431 ], [ 107.613693302129022, -6.906574627138771 ], [ 107.613693302129022, -6.906574627138771 ] ] ] } }
+]
+}

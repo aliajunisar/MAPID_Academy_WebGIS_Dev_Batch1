@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Jalan_Masjid_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Saparua" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.615705926541239, -6.908656420990928 ], [ 107.61612599721991, -6.909576776849712 ], [ 107.61612599721991, -6.909576776849712 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Aceh" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.61612599721991, -6.909573610487812 ], [ 107.616330755289411, -6.90950500597999 ], [ 107.616329699835447, -6.90950500597999 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616330227562429, -6.90950500597999 ], [ 107.616416247060727, -6.909684433154294 ], [ 107.616551345168432, -6.910045398410836 ], [ 107.615936015505952, -6.910250156480335 ], [ 107.615936015505952, -6.910250156480335 ] ] ] } }
+]
+}

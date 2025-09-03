@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Jalan_Cafe_FastFood_14",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616094558851927, -6.907930225826966 ], [ 107.616117778839183, -6.907915449471436 ], [ 107.616130444286782, -6.907889063122275 ], [ 107.616080837950364, -6.907756075922504 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Ambon" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.616081893404328, -6.907757131376471 ], [ 107.61705080014552, -6.907421497015143 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Banda" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.617050800145492, -6.907421497015141 ], [ 107.616774271206296, -6.906190837690273 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. L. L. RE. Martadinata" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.61677427120631, -6.906189782236307 ], [ 107.618717361958531, -6.906076848661898 ], [ 107.619160652624444, -6.905996634160449 ] ] ] } }
+]
+}

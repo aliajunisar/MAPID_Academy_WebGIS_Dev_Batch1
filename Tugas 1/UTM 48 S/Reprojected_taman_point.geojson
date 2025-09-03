@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Reprojected_taman_point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "nama": "Taman Saparua" }, "geometry": { "type": "Point", "coordinates": [ 789147.146510323625989, 9235571.578061433508992 ] } }
+]
+}

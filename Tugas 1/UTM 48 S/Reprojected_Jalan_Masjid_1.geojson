@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Reprojected_Jalan_Masjid_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Saparua" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789061.398129169130698, 9235554.736286599189043 ], [ 789107.291854313574731, 9235452.635461695492268 ], [ 789107.291854313574731, 9235452.635461695492268 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": "Jl. Aceh" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789107.293780357576907, 9235452.985847691074014 ], [ 789129.978651562705636, 9235460.453073086217046 ], [ 789129.861934334505349, 9235460.453714715316892 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Jalan": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 789129.920292948605493, 9235460.453393900766969 ], [ 789139.323592410422862, 9235440.545889342203736 ], [ 789154.043779734754935, 9235400.51973675750196 ], [ 789085.873165842727758, 9235378.235531290993094 ], [ 789085.873165842727758, 9235378.235531290993094 ] ] ] } }
+]
+}

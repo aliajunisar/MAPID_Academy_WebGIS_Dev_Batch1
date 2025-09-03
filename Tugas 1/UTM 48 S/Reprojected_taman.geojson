@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Reprojected_taman",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "nama": "Taman Saparua" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 789204.169881439767778, 9235683.982103515416384 ], [ 789241.511806926573627, 9235503.559694966301322 ], [ 789241.511806926573627, 9235503.559694966301322 ], [ 789109.644159365212545, 9235461.582672536373138 ], [ 789036.027606467949226, 9235621.938793171197176 ], [ 789204.169881439767778, 9235683.982103515416384 ] ] ] ] } }
+]
+}
