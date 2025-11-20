@@ -7,5 +7,4 @@ Untuk buka file ini ada 2 versi:
 
 
 Thank you.
-
-- Alia Junisar Shafira
+**Alia Junisar Shafira**
